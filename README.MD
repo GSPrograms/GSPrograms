@@ -4,7 +4,7 @@ Sou Gustavo Henrique,  tenho 19 anos, nascido em Guarulhos SP e Atualmente estou
 Sou fascinado por computadores e amante da criação sem limites da programação deis de pequeno e finalmente pude por em pratica este facinio. Venho buscando conhecimento e me aprimorando constantemente para que a imaginação se torne meu limite.  
 
 
-
+# 🪬 Linguagens
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 title="HTML"
