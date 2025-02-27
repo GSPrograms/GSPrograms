@@ -1,7 +1,8 @@
 # Gustavo Henrique
 
-Sou Gustavo Henrique,  tenho 19 anos, nascido em Guarulhos SP e Atualmente estou cursando Analise e desenvolvimento de Sistemas na [FECAP](Fecap.br).
-Sou fascinado por computadores e amante da criação sem limites da programação deis de pequeno e finalmente pude por em pratica este facinio. Venho buscando conhecimento e me aprimorando constantemente para que a imaginação se torne meu limite.  
+Olá Explorador! Sou Gustavo Henrique, tenho 19 anos e sou natural de Guarulhos, SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na [FECAP](Fecap.br). Desde pequeno, sou fascinado por computadores e pela criação sem limites que a programação proporciona. Finalmente, pude transformar esse fascínio em prática, mergulhando de cabeça no universo da tecnologia.
+
+Estou sempre em busca de novos conhecimentos e de me aprimorar, porque acredito que meu unico limite será minha imaginação.
 
 
 <div style="display: flex; justify-content: space-between;">
