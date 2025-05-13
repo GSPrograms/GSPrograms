@@ -54,6 +54,6 @@ style="padding-right: 10px;"/>
 title="MySQL"
 alt="MySQL"
 width=40px
-style"padding-right: 10px;/>
+style"padding-right: 10px;"/>
 <div>
 
