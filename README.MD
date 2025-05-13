@@ -55,11 +55,13 @@ title="MySQL"
 alt="MySQL"
 width=40px
 style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
+
+<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
 title="Arduino"
 alt="Arduino"
 width=40px
-style="padding-right: 10px;"//>
+style="padding-right: 10px;"/>
           
           
 
