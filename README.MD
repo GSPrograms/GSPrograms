@@ -50,9 +50,12 @@ title="HTML"
 alt="HTML"
 width=40px
 style="padding-right: 10px;"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+title="MySQL"
+alt="MySQL"
+width=40px
+style="padding-right: 10px;"/>
+          
 
 <div>
 
