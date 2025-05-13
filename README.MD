@@ -50,15 +50,17 @@ title="HTML"
 alt="HTML"
 width=40px
 style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-title="MySQL"
-alt="MySQL"
-width=40px
-style="padding-right: 10px;"/>
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
 title="Arduino"
 alt="Arduino"
+width=40px
+style="padding-right: 10px;"/>
+
+## 🖥 Plataformas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+title="MySQL"
+alt="MySQL"
 width=40px
 style="padding-right: 10px;"/>
           
