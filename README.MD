@@ -15,7 +15,7 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 
 ## 🪬 Linguagens
 <img
-src="https://fontawesome.com/icons/database?f=classic&s=solid"
+src="https://www.freepik.com/icon/sql-server_4299956#fromView=keyword&page=1&position=26&uuid=f6e31b05-2729-4679-b8d5-d9df2ed3cb3a"
 title="SQL"
 alt="SQL"
 width=40px
