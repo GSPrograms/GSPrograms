@@ -14,12 +14,6 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 
 
 ## 🪬 Linguagens
-<img
-src="https://www.freepik.com/icon/sql-server_4299956#fromView=keyword&page=1&position=26&uuid=f6e31b05-2729-4679-b8d5-d9df2ed3cb3a"
-title="SQL"
-alt="SQL"
-width=40px
-style="padding-right: 10px;"/>
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 title="HTML"
