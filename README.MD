@@ -50,21 +50,33 @@ title="HTML"
 alt="HTML"
 width=40px
 style="padding-right: 10px;"/>
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
-title="Arduino"
-alt="Arduino"
-width=40px
-style="padding-right: 10px;"/>
-
 ## 🖥 Plataformas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 title="MySQL"
 alt="MySQL"
 width=40px
 style="padding-right: 10px;"/>
-          
-          
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+title="Visual Studio"
+alt="Visual Studio"
+width=40px
+style="padding-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+title="VsCode"
+alt="VsCode"
+width=40px
+style="padding-right: 10px;"/>
+<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
+title="Arduino"
+alt="Arduino"
+width=40px
+style="padding-right: 10px;"/>
+## 🖥 Bibliotecas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+title="React"
+alt="React"
+width=40px
+style="padding-right: 10px;"/>
 <div>
 
