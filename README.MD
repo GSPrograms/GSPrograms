@@ -15,7 +15,7 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 
 ## 🪬 Linguagens
 <img
-src="https://www.flaticon.com/free-icon/sql-server_5815886?term=sql+server&page=1&position=11&origin=tag&related_id=5815886"
+src="https://fontawesome.com/icons/database?f=classic&s=solid"
 title="SQL"
 alt="SQL"
 width=40px
