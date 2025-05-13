@@ -46,8 +46,8 @@ width=40px
 style="padding-right: 10px;"/>
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-title="HTML"
-alt="HTML"
+title="CSS"
+alt="CSS"
 width=40px
 style="padding-right: 10px;"/>
 ## 🖥 Plataformas
