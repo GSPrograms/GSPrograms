@@ -24,10 +24,10 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 
   <!-- Top Langs -->
   <a href="https://github.com/GSPrograms/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&layout=compact&theme=dark#gh-dark-mode-only" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&layout=compact&theme=dark#gh-dark-mode-only" width="40%"/>
   </a>
   <a href="https://github.com/GSPrograms/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&layout=compact&theme=default#gh-light-mode-only" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&layout=compact&theme=default#gh-light-mode-only" width="40%"/>
   </a>
 </p>
 
