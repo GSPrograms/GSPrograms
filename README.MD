@@ -12,12 +12,9 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#) (11) 98891-9919
 
 ## Estatísticas 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&theme=rose&show_icons=true" width="400">
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&theme=rose&stheme=zize_weight=1.5&count_weight=0.5" width="400">
-</div>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GSPrograms/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/GSPrograms/github-readme-stats#gh-light-mode-only)
+
 
 
 
