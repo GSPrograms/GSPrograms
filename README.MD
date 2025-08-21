@@ -13,6 +13,7 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 
 ## Estatísticas 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GSPrograms&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GSPrograms/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 
