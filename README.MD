@@ -5,7 +5,7 @@ Sou Gustavo Henrique,  tenho 19 anos, nascido em Guarulhos SP e Atualmente estou
 Sou fascinado por computadores e amante da criação sem limites da programação deis de pequeno e finalmente pude por em pratica este facinio. Venho buscando conhecimento e me aprimorando constantemente para que a imaginação se torne meu limite.  
 
 ## Contatos
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) Ghenrique.s.santosf@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)] Ghenrique.s.santosf@gmail.com
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [Gustavo Henrique Da Silva Santos](https://www.linkedin.com/in/gustavo-henrique-da-silva-santos-453822326/)
 
