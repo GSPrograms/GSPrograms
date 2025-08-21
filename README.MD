@@ -12,8 +12,11 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#) (11) 98891-9919
 
 ## Estatísticas 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&theme=rose&show_icons=true" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&theme=rose&stheme=zize_weight=1.5&count_weight=0.5" width="303">
+</div>
+
 
 
 
