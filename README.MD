@@ -14,6 +14,7 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 
 
 ## Editores de Código
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 
 
 ## 🖥 Plataformas
