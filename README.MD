@@ -13,70 +13,10 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 
 
 
-## 🪬 Linguagens
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-title="HTML"
-alt="HTML"
-width=40px
-style="padding-right: 10px;"/>
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-title="HTML"
-alt="HTML"
-width=40px
-style="padding-right: 10px;"/>
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-title="HTML"
-alt="HTML"
-width=40px
-style="padding-right: 10px;"/>
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-title="HTML"
-alt="HTML"
-width=40px
-style="padding-right: 10px;"/>
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-title="HTML"
-alt="HTML"
-width=40px
-style="padding-right: 10px;"/>
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-title="CSS"
-alt="CSS"
-width=40px
-style="padding-right: 10px;"/>
-## 🖥 Plataformas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-title="MySQL"
-alt="MySQL"
-width=40px
-style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
-title="Visual Studio"
-alt="Visual Studio"
-width=40px
-style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-title="VsCode"
-alt="VsCode"
-width=40px
-style="padding-right: 10px;"/>
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
-title="Arduino"
-alt="Arduino"
-width=40px
-style="padding-right: 10px;"/>
-## 🖥 Bibliotecas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-title="React"
-alt="React"
-width=40px
-style="padding-right: 10px;"/>
-<div>
+## Editores de Código
 
+
+## 🖥 Plataformas
+
+
+## 🖥 Bibliotecas
