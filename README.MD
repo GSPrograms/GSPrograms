@@ -16,7 +16,7 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 <img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&theme=rose&show_icons=true" width="400">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&theme=rose&stheme=zize_weight=1.5&count_weight=0.5" width="303">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&theme=rose&stheme=zize_weight=1.5&count_weight=0.5" width="600">
 </div>
 
 
