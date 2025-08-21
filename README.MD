@@ -14,8 +14,21 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 ## Estatísticas 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&layout=compact&theme=dark" height="165"/>
+  <!-- Stats -->
+  <a href="https://github.com/GSPrograms/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&show_icons=true&theme=dark#gh-dark-mode-only" height="165"/>
+  </a>
+  <a href="https://github.com/GSPrograms/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&show_icons=true&theme=default#gh-light-mode-only" height="165"/>
+  </a>
+
+  <!-- Top Langs -->
+  <a href="https://github.com/GSPrograms/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&layout=compact&theme=dark#gh-dark-mode-only" height="165"/>
+  </a>
+  <a href="https://github.com/GSPrograms/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&layout=compact&theme=default#gh-light-mode-only" height="165"/>
+  </a>
 </p>
 
 
