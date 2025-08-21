@@ -4,6 +4,11 @@
 Sou Gustavo Henrique,  tenho 19 anos, nascido em Guarulhos SP e Atualmente estou cursando Analise e desenvolvimento de Sistemas na [FECAP](Fecap.br).
 Sou fascinado por computadores e amante da criação sem limites da programação deis de pequeno e finalmente pude por em pratica este facinio. Venho buscando conhecimento e me aprimorando constantemente para que a imaginação se torne meu limite.  
 
+## Contatos
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) Ghenrique.s.santosf@gmail.com
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [Gustavo Henrique Da Silva Santos](www.linkedin.com/in/gustavo-henrique-da-silva-santos)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#) (11) 98891-9919
+
 ## Estatísticas 
 <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&theme=rose&show_icons=true" width="400">
