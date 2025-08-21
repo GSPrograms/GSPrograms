@@ -7,7 +7,7 @@ Sou fascinado por computadores e amante da criação sem limites da programaçã
 ## Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) Ghenrique.s.santosf@gmail.com
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [Gustavo Henrique Da Silva Santos](www.linkedin.com/in/gustavo-henrique-da-silva-santos)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [Gustavo Henrique Da Silva Santos](https://www.linkedin.com/in/gustavo-henrique-da-silva-santos-453822326/)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#) (11) 98891-9919
 
