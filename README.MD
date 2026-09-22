@@ -1,4 +1,4 @@
-# eu sou o Gustavo Henrique 
+# Sou o Gustavo Henrique! É um prazer tê-lo aqui!
 
 **Estudante de Ciência da Computação na FECAP** (5º Semestre)  
 **Foco Profissional:** Desenvolvimento Web Full Stack, Mobile (Android) e Engenharia de Software.  
