@@ -1,14 +1,14 @@
-# Olá, eu sou o Gustavo Henrique 👋
+# eu sou o Gustavo Henrique 
 
-🎓 **Estudante de Ciência da Computação na FECAP** (5º Semestre)  
-💻 **Foco Profissional:** Desenvolvimento Web Full Stack, Mobile (Android) e Engenharia de Software.  
-📍 Guarulhos, SP - Brasil
+**Estudante de Ciência da Computação na FECAP** (5º Semestre)  
+**Foco Profissional:** Desenvolvimento Web Full Stack, Mobile (Android) e Engenharia de Software.  
+Guarulhos, SP - Brasil
 
 Trabalho no desenvolvimento de aplicações eficientes e bem estruturadas, combinando front-end moderno, back-end robusto (APIs RESTful) e integração com bancos de dados. Apaixonado por tecnologia e resolução de problemas através do código.
 
 ---
 
-### 📬 Contatos & Redes
+###  Contatos & Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-da-silva-santos-453822326/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ghenrique.s.santosf@gmail.com)
@@ -16,7 +16,7 @@ Trabalho no desenvolvimento de aplicações eficientes e bem estruturadas, combi
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 **Linguagens de Programação:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -47,18 +47,18 @@ Trabalho no desenvolvimento de aplicações eficientes e bem estruturadas, combi
 
 ---
 
-### 🚀 Projetos de Destaque
+###  Projetos de Destaque
 
 > *Substitua os links abaixo pelos repositórios reais do seu GitHub:*
 
-* 📊 **[Dashboard de Gestão Educacional](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Sistema web Full Stack (C# .NET, Node.js, MySQL) para gestão de eventos e indicadores.
-* 📱 **[App Gestão de Estoque & Vendas](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Aplicação Android nativa (Java) desenvolvida para controle operacional de cantina universitária.
-* 🐾 **[Sistema Full Stack Petshop](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Aplicação web com autenticação JWT, CRUD de pets/serviços e armazenamento de arquivos.
-* 🌐 **[Sistema de Irrigação Automatizada IoT](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Solução de hardware (ESP32 + C++) integrada a dashboard web para monitoramento em tempo real.
+*  **[Dashboard de Gestão Educacional](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Sistema web Full Stack (C# .NET, Node.js, MySQL) para gestão de eventos e indicadores.
+*  **[App Gestão de Estoque & Vendas](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Aplicação Android nativa (Java) desenvolvida para controle operacional de cantina universitária.
+*  **[Sistema Full Stack Petshop](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Aplicação web com autenticação JWT, CRUD de pets/serviços e armazenamento de arquivos.
+*  **[Sistema de Irrigação Automatizada IoT](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Solução de hardware (ESP32 + C++) integrada a dashboard web para monitoramento em tempo real.
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&show_icons=true&theme=dark" width="48%" alt="Estatísticas do GitHub" />
