@@ -49,8 +49,6 @@ Trabalho no desenvolvimento de aplicações eficientes e bem estruturadas, combi
 
 ###  Projetos de Destaque
 
-> *Substitua os links abaixo pelos repositórios reais do seu GitHub:*
-
 *  **[Dashboard de Gestão Educacional](https://github.com/2025-2-NADS3/Projeto1)** — Sistema web Full Stack (C# .NET, Node.js, MySQL) para gestão de eventos e indicadores.
 *  **[Dashboard de Gestão de vendas/eventos](https://github.com/2026-1-NCC4/Projeto4)** — Dashboard Web Interativo utilizando Python.
 *  **[Sistema Full Stack Petshop](https://github.com/GSPrograms/SistemaPetshop)** — Aplicação web com autenticação JWT, CRUD de pets/serviços e armazenamento de arquivos.
