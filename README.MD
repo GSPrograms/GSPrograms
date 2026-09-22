@@ -51,10 +51,10 @@ Trabalho no desenvolvimento de aplicações eficientes e bem estruturadas, combi
 
 > *Substitua os links abaixo pelos repositórios reais do seu GitHub:*
 
-*  **[Dashboard de Gestão Educacional](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Sistema web Full Stack (C# .NET, Node.js, MySQL) para gestão de eventos e indicadores.
-*  **[App Gestão de Estoque & Vendas](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Aplicação Android nativa (Java) desenvolvida para controle operacional de cantina universitária.
-*  **[Sistema Full Stack Petshop](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Aplicação web com autenticação JWT, CRUD de pets/serviços e armazenamento de arquivos.
-*  **[Sistema de Irrigação Automatizada IoT](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Solução de hardware (ESP32 + C++) integrada a dashboard web para monitoramento em tempo real.
+*  **[Dashboard de Gestão Educacional](https://github.com/2025-2-NADS3/Projeto1)** — Sistema web Full Stack (C# .NET, Node.js, MySQL) para gestão de eventos e indicadores.
+*  **[Dashboard de Gestão de vendas/eventos](https://github.com/2026-1-NCC4/Projeto4)** — Dashboard Web Interativo utilizando Python.
+*  **[Sistema Full Stack Petshop](https://github.com/GSPrograms/SistemaPetshop)** — Aplicação web com autenticação JWT, CRUD de pets/serviços e armazenamento de arquivos.
+*  **[Sistema de Irrigação Automatizada IoT](https://github.com/2024-2-NADS1/Projeto6)** — Solução de hardware (ESP32 + C++) integrada a dashboard web para monitoramento em tempo real.
 
 ---
 
