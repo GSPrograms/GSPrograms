@@ -1,66 +1,66 @@
-# Gustavo Henrique
+# Olá, eu sou o Gustavo Henrique 👋
 
+🎓 **Estudante de Ciência da Computação na FECAP** (5º Semestre)  
+💻 **Foco Profissional:** Desenvolvimento Web Full Stack, Mobile (Android) e Engenharia de Software.  
+📍 Guarulhos, SP - Brasil
 
-Sou Gustavo Henrique,  tenho 20 anos, nascido em Guarulhos SP e fazia Analise de desenvolvimento de sistemas, porem, mudei para Ciência da Computação na [FECAP](Fecap.br).
-Sou fascinado por computadores e amante da criação sem limites da programação deis de pequeno e finalmente pude por em pratica este facinio. Venho buscando conhecimento e me aprimorando constantemente para que a imaginação se torne meu limite.  
+Trabalho no desenvolvimento de aplicações eficientes e bem estruturadas, combinando front-end moderno, back-end robusto (APIs RESTful) e integração com bancos de dados. Apaixonado por tecnologia e resolução de problemas através do código.
 
-## Contatos
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) Ghenrique.s.santosf@gmail.com
+---
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [Gustavo Henrique Da Silva Santos](https://www.linkedin.com/in/gustavo-henrique-da-silva-santos-453822326/)
+### 📬 Contatos & Redes
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#) (11) 98891-9919
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-da-silva-santos-453822326/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ghenrique.s.santosf@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988919919)
 
-## Estatísticas 
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+**Linguagens de Programação:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Web:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Banco de Dados & Ferramentas:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Projetos de Destaque
+
+> *Substitua os links abaixo pelos repositórios reais do seu GitHub:*
+
+* 📊 **[Dashboard de Gestão Educacional](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Sistema web Full Stack (C# .NET, Node.js, MySQL) para gestão de eventos e indicadores.
+* 📱 **[App Gestão de Estoque & Vendas](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Aplicação Android nativa (Java) desenvolvida para controle operacional de cantina universitária.
+* 🐾 **[Sistema Full Stack Petshop](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Aplicação web com autenticação JWT, CRUD de pets/serviços e armazenamento de arquivos.
+* 🌐 **[Sistema de Irrigação Automatizada IoT](https://github.com/GSPrograms/SEU_REPOSITORIO_AQUI)** — Solução de hardware (ESP32 + C++) integrada a dashboard web para monitoramento em tempo real.
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Stats -->
-  <a href="https://github.com/GSPrograms/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&show_icons=true&theme=dark#gh-dark-mode-only" width="49%"/>
-  </a>
-  <a href="https://github.com/GSPrograms/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&show_icons=true&theme=default#gh-light-mode-only" width="49%"/>
-  </a>
-
-  <!-- Top Langs -->
-  <a href="https://github.com/GSPrograms/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&layout=compact&theme=dark#gh-dark-mode-only" width="40%"/>
-  </a>
-  <a href="https://github.com/GSPrograms/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&layout=compact&theme=default#gh-light-mode-only" width="40%"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=GSPrograms&show_icons=true&theme=dark" width="48%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSPrograms&layout=compact&theme=dark" width="48%" alt="Linguagens mais usadas" />
 </p>
-
-
-
-
-
-
-## Linguagens de Programação
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-
-
-## Editores de Código
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-
-## DataBases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-
-## Design
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-
-# Frameworks
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-
-## Game Engine
-[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
